@@ -1,0 +1,6 @@
+foo: foo version 4
+
+democonfigclient:
+  message:  spring cloud config io 0
+
+
