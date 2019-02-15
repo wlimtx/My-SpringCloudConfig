@@ -1,6 +1,5 @@
-foo: foo version 6
+foo: foo version 67
 
 democonfigclient:
-  message:  spring cloud config io 7
-
+  message:  spring cloud config io 74
 
